@@ -1,0 +1,36 @@
+.navbar{
+    height: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(7, 138, 7, 0.884);
+}
+.title{
+    display: flex;
+    align-items: center;
+}
+.title img {
+    width: 80px;
+    height: 80px;
+}
+.title h1 {
+    font-size: 40px;
+    margin-left: 10px;
+}
+.title h1:hover{
+    color:crimson;
+}
+.link a{
+   text-decoration: none;
+   color:black;
+   font-weight: 600;
+   font-size: 25px;
+   margin-left: 20px;
+}
+.link a:hover{
+    color: crimson;
+}

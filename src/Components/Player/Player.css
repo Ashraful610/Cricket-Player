@@ -1,0 +1,29 @@
+.player{
+    border: 2px solid silver;
+    border-radius: 20px;
+    padding: 10px;
+}
+.player img {
+    width: 290px;
+    height: 300px;
+}
+.info{
+    padding: 10px;
+    text-align: justify;
+}
+.player-btn{
+    padding: 10px 80px;
+    border-radius: 10px;
+    border-style: none;
+    color:white ;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.player-btn h3{
+    margin-right: 10px;
+}
+.player-btn:hover{
+    background-color: rgb(158, 6, 6);
+}

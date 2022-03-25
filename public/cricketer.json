@@ -1,0 +1,92 @@
+[
+    {
+        "id":1,
+         "name" : "Ashraful Alam",
+         "job" : "Cricketer",
+         "age" : 30,
+         "salary": 500000 ,
+         "bouns" : 10000,
+         "home" : "Brahmanbaria",
+         "img" : "https://images.news18.com/ibnlive/uploads/2016/08/Mohammad-Ashraful.jpg?im=Resize,width=360,aspect=fit,type=normal?im=Resize,width=320,aspect=fit,type=normal"
+    },
+    {
+        "id":2,
+        "name" : "Imrul Kayes",
+        "job" : "Cricketer",
+        "age":30,
+        "bouns":8000,
+        "salary": 400000 ,
+        "home" : "Meherpur",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhPuss0BuQ3U_J_GldcNuoUxZrA9aiQaWInw&usqp=CAU"
+    },
+    {
+        "id":3,
+        "name" : "Mehedi Hassan",
+        "job" : "Cricketer",
+        "age":25,
+        "bouns" : 8000,
+        "salary": 300000 ,
+        "home" : "Khulna",
+        "img" : "https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/284/1597.png"
+    },
+    {
+        "id":4,
+        "name" : "Musfiqur Rahman",
+        "job" : "Cricketer",
+        "age":32,
+        "bouns":12000,
+        "salary": 800000 ,
+        "home" : "Bogura",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBZ0NKtZs75UJIsjLO1cTNAchMpWpajv2_sA&usqp=CAU"
+    },
+    {
+        "id":5,
+        "name" : "Mashrafe Bin Mortaza",
+        "job" : "Cricketer",
+        "age": 35,
+        "bouns":15000,
+        "salary": 900000 ,
+        "home" : "Norail",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOFOhlgyQpcHTC0_ucA_gRhd8SWpaB8ovISw&usqp=CAU"
+    },
+    {
+        "id":6,
+        "name" : "Taskin Ahmed",
+        "job" : "Cricketer",
+        "age":27,
+        "bouns":90000,
+        "salary": 700000 ,
+        "home" : "Dhaka",
+        "img" : "https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/284/1839.png"
+    },
+    {
+        "id":7,
+        "name" : "Mohammad Saifuddin",
+        "job" : "Cricketer",
+        "age":29,
+        "bouns":10000,
+        "salary": 500000 ,
+        "home" : "Feni",
+        "img" : "https://p.imgci.com/db/PICTURES/CMS/322800/322800.png"
+    },
+    {
+        "id":8,
+        "name" : " Mahmudullah Riyad",
+        "job" : "Cricketer",
+        "age":34,
+        "bouns":14000,
+        "salary": 900000 ,
+        "home" : "Mymensingh",
+        "img" : "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mahmudullah-CWC19.ashx"
+    },
+    {
+        "id":9,
+        "name" : "Tamim Iqbal",
+        "job" : "Cricketer",
+        "age" : 36,
+        "bouns":15000,
+        "salary": 900000 ,
+        "home" : "Chittagong",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOCB9RWA2YrEJcqYi6ifN5v8MLuysKfc_3kw&usqp=CAU"
+    }
+]
