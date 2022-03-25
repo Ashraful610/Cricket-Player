@@ -2,7 +2,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {faShoppingCart } from '@fortawesome/free-solid-svg-icons'
 import React from 'react';
 import './Player.css'
-const Player = ({player,handler}) => {
+const Player = ({player,addToCart}) => {
     const {name,img,salary,home,job,bouns} = player
     // console.log(name,age,salary, home,job,bouns)
     return (
@@ -15,7 +15,7 @@ const Player = ({player,handler}) => {
                    <h3>Salary : {salary}</h3>
                    <h3> Bouns : {bouns}</h3>
               </div>
-              <button  onClick={handler} className='player-btn'>
+              <button  onClick={()=>addToCart(player)} className='player-btn'>
                  <h3> Add to Money </h3> 
                         <FontAwesomeIcon icon={faShoppingCart}></FontAwesomeIcon>
               </button>
